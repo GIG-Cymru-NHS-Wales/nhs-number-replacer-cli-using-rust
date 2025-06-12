@@ -1,0 +1,8 @@
+[package]
+name = "nhs-number-replacer-cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nhs-number = "0.2.5"
+regex = "1.11.1"
