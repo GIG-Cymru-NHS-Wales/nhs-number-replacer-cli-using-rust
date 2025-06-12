@@ -1,0 +1,18 @@
+[package]
+name = "nhs-number-replacer-cli"
+version = "0.1.1"
+edition = "2024"
+authors = ["Joel Parker Henderson <joel.henderson@wales.nhs.uk>"]
+description = "National Health Service (NHS) number replacer command line interface (CLI) for NHS England, NHS Wales, NHS Isle of Man."
+license = "MIT OR Apache-2.0 OR GPL-2.0 OR GPL-3.0 OR BSD-3-Clause"
+repository = "https://github.com/GIG-Cymru-NHS-Wales/nhs-number-replacer-cli-using-rust/"
+readme = "README.md"
+keywords = ["GIGCymru", "NHSWales", "health", "iechyd"]
+categories = ["science", "data-structures", "value-formatting"]
+include = ["src/**/*", "LICENSE.md", "README.md"]
+
+
+
+[dependencies]
+nhs-number = "0.2.5"
+regex = "1.11.1"
