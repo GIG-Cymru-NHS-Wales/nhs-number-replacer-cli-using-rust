@@ -1,5 +1,15 @@
 //! # NHS Number replacer CLI
 //!
+//! **[documentation](https://docs.rs/nhs-number-replacer-cli/)**
+//! •
+//! **[source](https://github.com/GIG-Cymru-NHS-Wales/nhs-number-replacer-cli)**
+//! •
+//! **[llms.txt](https://raw.githubusercontent.com/GIG-Cymru-NHS-Wales/nhs-number-replacer-cli/refs/heads/main/llms.txt)**
+//! •
+//! **[crate](https://crates.io/crates/nhs-number-replacer-cli)**
+//! •
+//! **[email](mailto:joel.henderson@wales.nhs.uk)**
+//! 
 //! National Health Service (NHS) Number replacer command line interface (CLI).
 //!
 //! ## Steps
