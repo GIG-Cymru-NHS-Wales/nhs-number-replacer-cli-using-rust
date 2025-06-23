@@ -1,6 +1,6 @@
 [package]
 name = "nhs-number-replacer-cli"
-version = "0.1.2"
+version = "0.2.0"
 edition = "2024"
 authors = ["Joel Parker Henderson <joel.henderson@wales.nhs.uk>"]
 description = "National Health Service (NHS) number replacer command line interface (CLI) for NHS England, NHS Wales, NHS Isle of Man."
@@ -14,3 +14,6 @@ include = ["src/**/*", "LICENSE.md", "README.md"]
 [dependencies]
 nhs-number = "0.2.5"
 regex = "1.11.1"
+
+[dev-dependencies]
+rustdoc-llms = "0.1.0"
